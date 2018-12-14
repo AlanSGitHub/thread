@@ -14,6 +14,8 @@
 
 ### 7.生产者与消费者多线程Demo
 
+> 详情看：[LimitedProduct.java](https://github.com/AlanSGitHub/thread/blob/master/LimitedProduct.java)
+
 ```
 孔明购买了4个产品。
 士兵购买了4个产品。
